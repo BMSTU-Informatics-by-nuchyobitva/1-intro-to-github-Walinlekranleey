@@ -3,7 +3,7 @@
 ____
 
 - [непосредственно репа с кодом](https://github.com/Walinlekranleey/MyFirstRepo)
-- [результат обучалки](gittest.png)
+- ![результат обучалки](gittest.png)
 
 ```
 примерно так будет выглядеть код в .md
